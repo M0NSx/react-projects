@@ -5,4 +5,6 @@ function App() {
   return (
     <div className="container">
         <h1 className="title">CEP Searcher</h1>
+
         <div className="containerInput">
+            <input type="text" placeholder="Insert your CEP"></input>
