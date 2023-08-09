@@ -12,3 +12,6 @@
     color: #fff;
     animation: flipTitle 2s;
 }
+
+@keyframes flipTitle {
+    from{
