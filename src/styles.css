@@ -16,3 +16,8 @@
 @keyframes flipTitle {
     from{
         transform: rotateX(100deg);
+    }
+    to{
+        transform: rotateX(0deg);
+    }
+}
