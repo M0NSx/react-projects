@@ -21,3 +21,9 @@ function App() {
             <span>Complement: test</span>
             <span>Neighborhood: test</span>
             <span>City: test - State: test</span>
+        </main>
+    </div>
+  );
+}
+
+export default App;
