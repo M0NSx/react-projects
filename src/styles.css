@@ -10,3 +10,5 @@
 .title {
     font-size: 85px;
     color: #fff;
+    animation: flipTitle 2s;
+}
