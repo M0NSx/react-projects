@@ -13,4 +13,6 @@ function App() {
                 <FiSearch size={25} color="#FFF"/>
             </button>
         </div>
+    
         <main className="main">
+            <h2>CEP: 555022335</h2>
