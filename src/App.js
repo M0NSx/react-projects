@@ -16,3 +16,5 @@ function App() {
     
         <main className="main">
             <h2>CEP: 555022335</h2>
+
+            <span>Street: test</span>
