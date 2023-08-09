@@ -20,3 +20,4 @@ function App() {
             <span>Street: test</span>
             <span>Complement: test</span>
             <span>Neighborhood: test</span>
+            <span>City: test - State: test</span>
