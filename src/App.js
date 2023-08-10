@@ -52,7 +52,7 @@ function App() {
 
             <span>Street: {cep.logradouro}</span>
             <span>Complement: {cep.complemento}</span>
-            <span>Neighborhood: test</span>
+            <span>Neighborhood: {cep.bairro}</span>
             <span>City: test - State: test</span>
           
           </main>
