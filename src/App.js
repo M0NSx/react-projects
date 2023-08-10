@@ -19,7 +19,13 @@ function App() {
 
     try {
       const response = await api.get(`${input}/json`);
+      setCep(response.data)
 
+
+
+
+
+      
   return (
     <div className="container">
         <h1 className="title">CEP Searcher</h1>
