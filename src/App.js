@@ -22,7 +22,8 @@ function App() {
       setCep(response.data)
       setInput("");
 
-
+    }
+    catch {
 
 
 
