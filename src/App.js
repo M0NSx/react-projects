@@ -9,6 +9,8 @@ function App() {
   const [input, setInput] = useState("");
   const [cep, setCep] = useState({});
 
+  async function handleSearch() {
+
   return (
     <div className="container">
         <h1 className="title">CEP Searcher</h1>
