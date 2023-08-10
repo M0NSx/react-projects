@@ -14,6 +14,8 @@ function App() {
 
     if (input === "") {
       alert("Insert with CEP")
+      return;
+    }
 
   return (
     <div className="container">
