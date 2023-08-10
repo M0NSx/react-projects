@@ -5,6 +5,9 @@ import "./styles.css";
 import api  from './services/api';
 
 function App() {
+
+  const [input, setInput] = useState("");
+
   return (
     <div className="container">
         <h1 className="title">CEP Searcher</h1>
