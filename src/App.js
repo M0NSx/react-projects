@@ -12,6 +12,8 @@ function App() {
   async function handleSearch() {
     // 01001000/json/
 
+    if (input === "") {
+
   return (
     <div className="container">
         <h1 className="title">CEP Searcher</h1>
