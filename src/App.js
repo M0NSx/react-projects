@@ -50,7 +50,7 @@ function App() {
           <main className="main">
             <h2>CEP: {cep.cep}</h2>
 
-            <span>Street: test</span>
+            <span>Street: {cep.logradouro}</span>
             <span>Complement: test</span>
             <span>Neighborhood: test</span>
             <span>City: test - State: test</span>
