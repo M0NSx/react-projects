@@ -44,15 +44,20 @@ function App() {
                 <FiSearch size={25} color="#FFF"/>
             </button>
         </div>
-    
-        <main className="main">
+
+        {Object.keys(cep).length > 0 && (
+          
+          <main className="main">
             <h2>CEP: 555022335</h2>
 
             <span>Street: test</span>
             <span>Complement: test</span>
             <span>Neighborhood: test</span>
             <span>City: test - State: test</span>
-        </main>
+          
+          </main>
+        )}
+  
     </div>
   );
 }
