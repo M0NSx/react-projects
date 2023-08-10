@@ -38,8 +38,7 @@ function App() {
             type="text" 
             placeholder="Insert your CEP"
             value={input}
-
-              ></input>
+            onChange={(e) => setInput(e.target.value)}></input>
 
             <button className="buttonSearch"> 
                 <FiSearch size={25} color="#FFF"/>
