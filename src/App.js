@@ -48,7 +48,7 @@ function App() {
         {Object.keys(cep).length > 0 && (
           
           <main className="main">
-            <h2>CEP: 555022335</h2>
+            <h2>CEP: {cep.cep}</h2>
 
             <span>Street: test</span>
             <span>Complement: test</span>
