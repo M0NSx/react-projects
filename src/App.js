@@ -7,6 +7,7 @@ import api  from './services/api';
 function App() {
 
   const [input, setInput] = useState("");
+  const [cep, setCep] = useState({});
 
   return (
     <div className="container">
