@@ -24,6 +24,7 @@ function App() {
 
     }
     catch {
+      alert("Something went wrong");
 
 
 
