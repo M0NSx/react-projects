@@ -18,6 +18,7 @@ function App() {
     }
 
     try {
+      const response = await api.get(`${input}/json`);
 
   return (
     <div className="container">
