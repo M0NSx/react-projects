@@ -13,6 +13,7 @@ function App() {
     // 01001000/json/
 
     if (input === "") {
+      alert("Insert with CEP")
 
   return (
     <div className="container">
