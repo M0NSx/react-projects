@@ -38,3 +38,7 @@
     border: none;
     outline: none;
 }
+
+.containerInput input::placeholder {
+    color: #f1f1f1;
+}
