@@ -10,3 +10,4 @@
 .title {
     font-size: 65px;
     color: #fff;
+    animation: flipTitle 2s;
