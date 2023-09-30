@@ -1,0 +1,72 @@
+* {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #aeaeae;
+}
+
+.container {
+    padding-top: 180px;
+    display: flex;
+    justify-content: center;
+}
+
+form h1 {
+    font-size: 23px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.input-box {
+    padding: 15px 10px;
+    background-color: rgb(104, 91, 91);
+    margin-bottom: 10px;
+    border-radius: 8px;
+}
+
+.input-box .bi-person {
+    margin-right: 10px;
+}
+
+.input-box .bi-envelope {
+    margin-right: 10px;
+}
+
+.input-box .bi-key {
+    margin-right: 10px;
+}
+
+.input-box input {
+    background-color: transparent;
+    outline: none;
+    border: none;
+}
+
+.input-box input::placeholder {
+    color: #fff;
+}
+
+input {
+    color: #fff;
+}
+
+button {
+    border: none;
+    border-radius: 8px;
+    background-color: #fff;
+    padding: 8px 8px;
+    margin-top: 15px;
+    margin-left: 33%;
+}
+
+button:hover {
+    background-color: #c5b8b8;
+    transition: 0.4s;
+}
+
+button:focus {
+    background-color: rgb(104, 91, 91);
+}
