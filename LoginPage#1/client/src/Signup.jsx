@@ -16,3 +16,4 @@ function Signup() {
                             <input type="text" name='nickname' placeholder='Insert a Nickname'/>
                         </div>
                         <div className='input-box' >
+                            <i className="bi bi-envelope"></i>
