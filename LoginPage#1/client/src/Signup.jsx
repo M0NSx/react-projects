@@ -15,3 +15,4 @@ function Signup() {
                             <i className="bi bi-person"></i>
                             <input type="text" name='nickname' placeholder='Insert a Nickname'/>
                         </div>
+                        <div className='input-box' >
