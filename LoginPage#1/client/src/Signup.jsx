@@ -11,3 +11,4 @@ function Signup() {
                 <form>
                     <h1>Register</h1>
                     <div className='container-input' >
+                        <div className='input-box' >
