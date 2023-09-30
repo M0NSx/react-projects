@@ -19,3 +19,4 @@ function Signup() {
                             <i className="bi bi-envelope"></i>
                             <input type="email" name='email' placeholder='Email'/>
                         </div>
+                        <div className='input-box' >
