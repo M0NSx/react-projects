@@ -12,3 +12,4 @@ function Signup() {
                     <h1>Register</h1>
                     <div className='container-input' >
                         <div className='input-box' >
+                            <i className="bi bi-person"></i>
