@@ -23,3 +23,7 @@ function Signup() {
                             <i className="bi bi-key"></i>
                             <input type="password" name='password' placeholder='Password'/>
                         </div>
+                    </div>
+                    <button>Register</button>
+                </form>
+            </div>
