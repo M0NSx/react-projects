@@ -20,3 +20,4 @@ function Signup() {
                             <input type="email" name='email' placeholder='Email'/>
                         </div>
                         <div className='input-box' >
+                            <i className="bi bi-key"></i>
