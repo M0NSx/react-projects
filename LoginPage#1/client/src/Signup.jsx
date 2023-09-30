@@ -21,3 +21,5 @@ function Signup() {
                         </div>
                         <div className='input-box' >
                             <i className="bi bi-key"></i>
+                            <input type="password" name='password' placeholder='Password'/>
+                        </div>
