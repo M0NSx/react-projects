@@ -8,3 +8,5 @@ function Signup() {
         <>
         <div className='container'>
             <div className='container-box'>
+                <form>
+                    <h1>Register</h1>
