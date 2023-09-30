@@ -27,3 +27,9 @@ function Signup() {
                     <button>Register</button>
                 </form>
             </div>
+        </div>
+        </>
+    )
+}
+
+export default Signup
